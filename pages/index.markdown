@@ -5,7 +5,8 @@
 layout: home
 ---
 ![rogo](assets/images/NAmaerogo.png)
-D3NS font は流星をイメージして作られています。
+D3NS font は流星をイメージして作られたフォントです。ファイルをダウンロード、またはCDNから利用できます。テーマについてこちらのページで紹介しています。[D3NS font's Theme][d3ns_thema]
+
 
 Download
 ---
@@ -31,3 +32,4 @@ Caution
 D3NS fontは2022/12/18現在、D, N, e, o, s の5文字のみ実装されています。
 
 [d3ns_woff]: https://github.com/tsukasa-u/D3NS/raw/main/font/D3DN.woff
+[d3ns_thema]: theme/
