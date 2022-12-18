@@ -23,7 +23,7 @@ email: ogu.hide.u@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   D3NS font was designed by Tomoya Ina and the file was created by Hideyuki Oguri
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tsukasa-u.github.io/D3NS" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  tsukasa-u
 
