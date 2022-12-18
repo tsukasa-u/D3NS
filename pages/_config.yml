@@ -28,7 +28,8 @@ url: "https://tsukasa-u.github.io" # the base hostname & protocol for your site,
 github_username:  tsukasa-u
 
 # Build settings
-theme: minima
+# theme: minima
+jekyll-remote-theme: minima
 plugins:
   - jekyll-feed
   # - jekyll-seo-tag
