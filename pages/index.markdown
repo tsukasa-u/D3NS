@@ -5,7 +5,7 @@
 layout: home
 ---
 ![rogo](assets/images/NAmaerogo.png)
-D3NS font のwebページです。
+D3NS font は流星をイメージして作られています。
 
 Download
 ---
