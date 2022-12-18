@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "create D3NS web site"
+date:   2022-12-18 15:00:00 +0900
+categories: DSNS update
+---
+
+D3NS font を公開しました。
