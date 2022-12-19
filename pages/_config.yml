@@ -27,6 +27,8 @@ url: "https://tsukasa-u.github.io" # the base hostname & protocol for your site,
 # twitter_username: jekyllrb
 github_username:  tsukasa-u
 
+google_analytics: G-XW3FT01PKZ
+
 # Build settings
 theme: minima
 # jekyll-remote-theme: jekyll/minima
