@@ -6,5 +6,3 @@ categories: DSNS update
 ---
 
 D3NS font　のテーマを公開しました。
-
-[D3NS font's thema](./../../../../../theme)
