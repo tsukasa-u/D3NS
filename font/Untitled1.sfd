@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1670144324
-ModificationTime: 1670776654
+ModificationTime: 1693073307
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,11 +50,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 64 16 4
+WinInfo: 16 16 4
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: """" 
-BeginChars: 256 5
+BeginChars: 256 6
 
 StartChar: D
 Encoding: 68 68 0
@@ -74,31 +73,29 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-178 700 m 0
- 167 708 155 691 166 683 c 0
- 505 450 l 1
+178 700 m 4
+ 167 708 154.772317904 690.677184038 166 683 c 4
+ 279 605.733669433 392 529.617215224 505 450 c 5
  505 450 504 182 504 11 c 3
  504 2 514 -3 521 2 c 0
  840 223 l 0
  847 228 847 236 840 241 c 0
- 178 700 l 0
-525 407 m 6
- 525 424.99940552 536.52394825 426.315920437 547 419 c 6
- 789 250 l 6
- 795.910383563 245.174153627 799.515625 238.555664062 799.515625 231.90234375 c 4
- 799.515625 225.428710938 796.1015625 218.920898438 789 214 c 6
- 548 47 l 6
- 534.643350366 37.7445622865 525 38 525 60 c 6
- 525 407 l 6
+ 178 700 l 4
+525 407 m 2
+ 525 424.99940552 536.52394825 426.315920437 547 419 c 2
+ 789 250 l 2
+ 795.910383563 245.174153627 799.515625 238.555664062 799.515625 231.90234375 c 0
+ 799.515625 225.428710938 796.1015625 218.920898438 789 214 c 2
+ 548 47 l 2
+ 534.643350366 37.7445622865 525 38 525 60 c 2
+ 525 407 l 2
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: e
 Encoding: 101 101 1
 Width: 1000
 HStem: 84 21<573.724 711.276>
-AnchorPoint: "" 246 466 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -140,7 +137,6 @@ EndChar
 StartChar: o
 Encoding: 111 111 2
 Width: 1000
-AnchorPoint: "" 235 466 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -183,7 +179,6 @@ StartChar: N
 Encoding: 78 78 3
 Width: 1000
 VStem: 478 21<0.75 319.42> 975 22<45.1019 359.844>
-AnchorPoint: "" 478 12 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -210,7 +205,6 @@ EndChar
 StartChar: s
 Encoding: 115 115 4
 Width: 1000
-AnchorPoint: "" 245 463 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -239,6 +233,13 @@ SplineSet
 666.718857653 40.2811423474 m 1025
 EndSplineSet
 Validated: 33
+EndChar
+
+StartChar: A
+Encoding: 65 65 5
+Width: 1000
+Flags: WO
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
