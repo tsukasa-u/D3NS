@@ -20,7 +20,8 @@ Download
 | svg | [D3NS_monospaced_A2Z.svg][https://github.com/tsukasa-u/D3NS/blob/main/font/D3NS_monospaced_A2Z.svg] |
 | TrueType | [D3NS_monospaced_A2Z.ttf][https://github.com/tsukasa-u/D3NS/blob/main/font/D3NS_monospaced_A2Z.ttf] |
 | OpenType | [D3NS_monospaced_A2Z.otf][https://github.com/tsukasa-u/D3NS/blob/main/font/D3NS_monospaced_A2Z.otf] |
-| woff | [https://github.com/tsukasa-u/D3NS/blob/main/font/D3DN.woff][d3ns_woff] |
+
+<!-- | woff | [https://github.com/tsukasa-u/D3NS/blob/main/font/D3DN.woff][d3ns_woff] | -->
 
 CDN
 ---
