@@ -2,7 +2,7 @@
 layout: post
 title:  "D3NS font のバナー"
 date:   2022-12-20 19:00:00 +0900
-categories: DSNS update
+categories: D3NS update
 ---
 
 D3NS font　のバナーを変更しました。
