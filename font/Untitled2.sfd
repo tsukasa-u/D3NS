@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
-FontName: Untitled1
-FullName: Untitled1
-FamilyName: Untitled1
+FontName: D3NS
+FullName: D3NS
+FamilyName: D3NS_monospaced_A2Z
 Weight: Regular
-Copyright: Copyright (c) 2023, ogu-h
+Copyright: Copyright (c) 2022, Tomoya Ina, Hideyuki Oguri
 UComments: "2023-8-27: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1693078579
-ModificationTime: 1693323915
+ModificationTime: 1693335081
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -407,7 +407,7 @@ EndChar
 StartChar: K
 Encoding: 75 75 10
 Width: 1000
-Flags: MO
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -436,6 +436,7 @@ SplineSet
  374 208 377 202 383 198 c 2
  640 18 l 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: L
