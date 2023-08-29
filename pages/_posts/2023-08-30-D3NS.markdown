@@ -1,8 +1,0 @@
----
-layout: post
-title:  "update D3NS font"
-date:   2023-8-30 5:00:00 +0900
-categories: D3NS update
----
-
-D3NS font を更新しました。今回の更新でD3NS fontはAからZまでの英字が追加されました。aからzおよび0から9の英数字はまだ実装されていません。
