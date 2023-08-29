@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: D3DN
-FullName: D3DN
-FamilyName: D3DN
+FontName: D3NS
+FullName: D3NS
+FamilyName: D3NS_monospaced_DeoNs
 Weight: Regular
 Copyright: Copyright (c) 2022, Tomoya Ina, Hideyuki Oguri
 UComments: "2022-12-4: Created with FontForge (http://fontforge.org)"
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1670144324
-ModificationTime: 1693073307
+ModificationTime: 1693335082
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,9 +50,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 16 16 4
+WinInfo: 0 16 4
 BeginPrivate: 0
 EndPrivate
+TeXData: 1 0 0 346030 173015 115343 485491 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 256 6
 
 StartChar: D
@@ -238,7 +239,7 @@ EndChar
 StartChar: A
 Encoding: 65 65 5
 Width: 1000
-Flags: WO
+Flags: W
 LayerCount: 2
 EndChar
 EndChars
